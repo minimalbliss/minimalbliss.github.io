@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rn8uCZhNumfDZRW6ZyzVkwwQYF7dsjrDj2"
+      }
+    }
+  ],
+  "payId": "pay$minimalbliss.github.io"
+}
